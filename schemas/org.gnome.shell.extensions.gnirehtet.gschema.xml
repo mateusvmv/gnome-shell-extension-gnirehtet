@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnirehtet">
+    <schema path="/org/gnome/shell/extensions/gnirehtet/" id="org.gnome.shell.extensions.gnirehtet">
+        <key type="b" name="auto-start">
+            <default>false</default>
+            <summary>Auto-start gnirehtet on login</summary>
+            <description>Whether to automatically start gnirehtet when the extension is enabled.</description>
+        </key>
+    </schema>
+</schemalist>
