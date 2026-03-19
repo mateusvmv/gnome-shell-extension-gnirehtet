@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "uuid": "gnirehtet-gnome@mateusvmv",
   "name": "Gnirehtet Control",
   "description": "Toggle gnirehtet autorun from Quick Settings",
